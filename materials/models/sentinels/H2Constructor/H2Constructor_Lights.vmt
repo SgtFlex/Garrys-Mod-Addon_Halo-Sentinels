@@ -1,0 +1,15 @@
+patch
+{
+	include materials\models\sentinels\sentinel_constructor\sentinel_constructor.vmt
+	insert 
+	{
+	"$basetexture" "models\sentinels\sentinel_constructor\H2Constructor_Diffuse"
+	"$bumpmap" "models\sentinels\sentinel_constructor\H2Constructor_Normal"
+	"$selfillum" 			"1"
+	"$selfillumtint" 			"[0 5000 5000]"
+	}
+}
+
+
+
+

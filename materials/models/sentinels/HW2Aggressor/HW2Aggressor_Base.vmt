@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+  	"$basetexture" 			"models\sentinels\HW2Aggressor\HW2Aggressor_Diffuse"
+	"$bumpmap" 			"models\sentinels\HW2Aggressor\HW2Aggressor_Normal"
+	"$phong" "1"
+	"$phongboost" "10"
+	"$PhongExponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[3 5 7]"
+	"$phongexponenttexture" "models/sentinels/phongExpTexture"
+	"$detail" "models/sentinels/scratchedmetal"
+	"$detailscale" 3
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+
+}

@@ -1,0 +1,8 @@
+patch
+{
+	include materials\models\sentinels\343gs\monitor_base.vmt
+}
+
+
+
+

@@ -1,0 +1,4 @@
+patch
+{
+	include materials\models\sentinels\H3Aggressor\H3Aggressor_Base.vmt
+}

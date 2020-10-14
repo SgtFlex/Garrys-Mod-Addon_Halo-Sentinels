@@ -1,0 +1,23 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models\sentinels\sentinel_turret\H3Turret_Diffuse"
+	"$bumpmap" "models\sentinels\sentinel_turret\H3Turret_Normal"
+	"$selfillum" "1"
+	"$selfillumtint" "[1 10 10]"
+	"$normalmapalphaenvmapmask"	"1"
+	"$phong" "1"
+	"$phongboost" "20"
+	"$PhongExponent" "5"
+	"$phongalbedotint" "1"
+	"$phongfresnelranges" "[3 5 7]"
+	"$phongexponenttexture" "models/sentinels/phongExpTexture"
+	"$detail" "models/sentinels/scratchedmetal"
+	"$detailscale" 4
+	"$detailblendfactor" 1
+	"$detailblendmode" 0
+
+}
+
+
+

@@ -1,0 +1,8 @@
+patch
+{
+	include materials\models\sentinels\H2Enforcer\H2Enforcer_Base.vmt
+}
+
+
+
+
