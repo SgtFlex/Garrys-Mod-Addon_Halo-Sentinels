@@ -29,7 +29,7 @@ function ENT:Initialize()
 	self.RenderGroup = RENDERGROUP_TRANSLUCENT
 	self:PhysicsInit(SOLID_VPHYSICS)
 	self:SetMoveType(MOVETYPE_NOCLIP)
-	self:SetCollisionGroup(20)
+	self:SetCollisionGroup(0)
 	self:GetPhysicsObject():Wake()
 	self:SetColor(Color(0, 255, 255, 255))
 end
